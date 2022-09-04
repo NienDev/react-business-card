@@ -8,7 +8,7 @@ function App() {
 
   return (
       <div className="max-w-sm mx-auto bg-card my-6 rounded-xl text-white shadow-xl">
-        <Image url="./imgs/user.jpg"/>
+        <Image url="./src/imgs/user.jpg"/>
         <div className='p-8'>
           <Info name="Laura Smith" job="Frontend Developer" email="laurasmith.website"/>
           <Button/>
