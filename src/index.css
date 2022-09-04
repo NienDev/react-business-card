@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+body{
+  min-height: 100vh;
+  width: 100%;
+  background-color: #23252C;
+}
+
+.bg-body{
+  background-color: #23252C;
+}
+
+.bg-blue{
+  background-color: #5093E2;
+}
+
+.text-ly{
+  color: #F3BF99;
+}
+
+.bg-card{
+  background-color: #1A1B21;
+}
+
+.bg-footer{
+  background-color: #161619;
+}
